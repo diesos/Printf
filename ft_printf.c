@@ -6,11 +6,14 @@
 /*   By: omeoztur <omeoztur@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/29 23:23:56 by omeoztur          #+#    #+#             */
-/*   Updated: 2024/04/29 23:24:50 by omeoztur         ###   ########.fr       */
+/*   Updated: 2024/05/02 21:18:40 by omeoztur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_printf(const char *format, ...)
+#include "libft.h"
 
-	// TODO: printf return an integer, counting all char to be printed.
-	// also using variadic.
+int	ft_printf(const char *format, ...)
+{
+}
+// TODO: printf return an integer, counting all char to be printed.
+// also using variadic.
